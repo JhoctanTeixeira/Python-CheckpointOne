@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CTP" title="CTP" height="390px" width="390px" src="#" />
+    <img alt="CTP" title="CTP" height="390px" width="390px" src="https://github.com/JhoctanTeixeira/ComputionalThinkingUsingPython/blob/main/Python.png" />
 </h1>
 <h4 align="center"> 
 	🚧 ✏ Em aprendizagem... 🚧
